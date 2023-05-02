@@ -1,9 +1,6 @@
-### Hi there 👋
 
-<!--
-**shoxyouness/shoxyouness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mohamed Younes Mhadhbi</h1>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoxyouness&show_icons=true&locale=en&layout=compact" alt="" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoxyouness&show_icons=true&locale=en" alt="" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoxyouness&" alt="" /></p>
+
